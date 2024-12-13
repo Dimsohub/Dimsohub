@@ -1,6 +1,7 @@
 ## Hi there 👋 I am Dmytro Sokhin
 
-<div id="header" style="text-align: center;">  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZrc2tzbHJmNXoyZzc0aGUwNmEwODh5aDgyYTNwZzkyMDhyc3QzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif" width="100%" alt="Header Image" />
+<div id="header" style="text-align: center;">  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZrc2tzbHJmNXoyZzc0aGUwNmEwODh5aDgyYTNwZzkyMDhyc3QzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif" width="100%" alt="Header Image" />
 </div>
 
 <div id="badges" style="display: flex; justify-content: center; align-items: center;">  <a href="www.linkedin.com/in/dmytro-sokhin">
