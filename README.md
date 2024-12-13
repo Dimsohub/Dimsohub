@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am Dmytro Sokhin
+
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZrc2tzbHJmNXoyZzc0aGUwNmEwODh5aDgyYTNwZzkyMDhyc3QzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JrXas5ecb4FkwbFpIE/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Dimsohub/Dimsohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
