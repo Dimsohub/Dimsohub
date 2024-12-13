@@ -1,8 +1,10 @@
-## Hi there 👋 I am Dmytro Sokhin
+## Hi there 👋 I am Dmytro
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=www.linkedin.com/in/dmytro-sokhin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
 
 <!--
 **Dimsohub/Dimsohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
