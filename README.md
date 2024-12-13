@@ -6,7 +6,9 @@
   <a href="https://linkedin.com/in/dmytro-sokhin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
-
+<div id="counter" align="center">    
+<img src="https://komarev.com/ghpvc/?username=Dimsohub&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **Dimsohub/Dimsohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
