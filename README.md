@@ -13,7 +13,11 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
     
-### :man_technologist: About Me :    
+### :man_technologist: About Me :
+- I am a Junior Data Analyst
+- I'm delving into the world of big data
+- When I'm not crunching numbers, I'm learning new data tools
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dmytro-sokhin)
 <!--
 **Dimsohub/Dimsohub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
