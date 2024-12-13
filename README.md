@@ -6,6 +6,7 @@
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/dmytro-sokhin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>    
 <img src="https://komarev.com/ghpvc/?username=Dimsohub&style=flat-square&color=blue" alt=""/>
 
 <!--
